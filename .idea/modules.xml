@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-MongoDB-API.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-MongoDB-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootmongodb/springbootmongodb.iml" filepath="$PROJECT_DIR$/springbootmongodb/springbootmongodb.iml" />
+    </modules>
+  </component>
+</project>
